@@ -18,6 +18,10 @@ Voice instructions are mode-specific: B uses the selected named TTS voice as pro
 
 A and B share an installation, not a production contract or style library. All sections from **A · Director** to the end of this file apply only to A1–A5, including phrases such as "all styles". For B, use only Autopilot's production rules and the selected B-style reference; do not inherit A's setup, approvals, pacing, prompts, voice or visual constraints. Each B style owns its visuals, captions, voice, pacing and SFX; never inherit B1 by default. Preserve A's validated rules when revising B, and vice versa.
 
+## A6 · Urban Explainer (custom)
+
+A6 / Style 6 / 城市科普风 is for city, geography and scale explainers. Offer it with Styles 1–5; when selected, read [Urban Explainer](references/urban-explainer.md) first. It overrides Director defaults where they differ; never apply it to A1–A5 or B.
+
 ## First use and next steps
 
 Use one shared guide in the user's requested or current conversation language, falling back to an available host/local language setting when unclear. Keep guidance language separate from video narration/subtitles; do not select it from the README edition.
