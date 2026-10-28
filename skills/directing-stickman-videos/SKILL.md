@@ -22,6 +22,10 @@ A and B share an installation, not a production contract or style library. All s
 
 A6 / Style 6 / 城市科普风 is for city, geography and scale explainers. Offer it with Styles 1–5; when selected, read [Urban Explainer](references/urban-explainer.md) first. It overrides Director defaults where they differ; never apply it to A1–A5 or B.
 
+## A7 · Cozy Story Telling Animation (custom)
+
+A7 / Style 7 / 治愈故事动画风 is Style 4 plus highlighted numbers, graphs and map animations with one consistent story world. Offer it with Styles 1–6; when selected, read [Cozy Story Telling Animation](references/cozy-story-telling-animation.md) and `cozy-storytelling.md` first. It overrides Style 4's new-setting default; never apply it to A1–A6 or B.
+
 ## First use and next steps
 
 Use one shared guide in the user's requested or current conversation language, falling back to an available host/local language setting when unclear. Keep guidance language separate from video narration/subtitles; do not select it from the README edition.
